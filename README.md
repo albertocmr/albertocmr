@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Alberto Cámara.</h1>
-<h3 align="center">Estudiante de Ingeniería Informática en la UGR</h3>
+<h1 align="center">Hola, soy Alberto Cámara. 👋</h1>
+<h3 align="center">Estudiante de Ingeniería Informática en Universidad de Granada</h3>
 
 - 📫 How to reach me **cam.ortiz.al@gmail.com**
 
