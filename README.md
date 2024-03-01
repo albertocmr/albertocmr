@@ -15,7 +15,9 @@
 
 <h3 align="left"> Sobre mi:</h3>
 Me encuentro en el 4º año del grado de Ingeniería Informática.
+
 Mi rama de especialidad ha sido Ingeniería de Computadores.
+
 Para ponerte en contacto conmigo: **cam.ortiz.al@gmail.com**
 
 
