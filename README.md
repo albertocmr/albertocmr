@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola, soy Alberto Cámara, alumno perteneciente al grado de Ingeniería Informática en la Universidad de Grananada (UGR).
 
+https://badgen.net/#static/instagram/SrAlbertiyo/red
 <!--
 **albertocmr/albertocmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
