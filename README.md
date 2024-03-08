@@ -16,7 +16,7 @@
 <h3 align="left"> Sobre mi:</h3>
 Me encuentro en el 4º año del grado de Ingeniería Informática.
 
-Mi rama de especialidad ha sido Ingeniería de Computadores.
+Mi rama de especialidad es Ingeniería de Computadores.
 
 
 
