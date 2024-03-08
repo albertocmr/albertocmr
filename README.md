@@ -25,5 +25,5 @@ Mi rama de especialidad ha sido Ingeniería de Computadores.
 
 <h3 align="left"> Mis stats en Github: </h3>
 
-[![Albertocmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertocmr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Albertocmr's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=albertocmr&show_icons=true&theme=radical)]
 
