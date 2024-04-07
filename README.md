@@ -4,7 +4,7 @@
 
 <p align="center">
   <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/sralbertiyo" target="blank">
+  <a href="https://instagram.com/albertocmr_" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
