@@ -10,9 +10,9 @@
   <span style="width: 8px;"> </span>
   <a href="https://twitter.com/AlbertoCamara_" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de albertocmr" height="23px" width="28px" />
+    <img src="https://komarev.com/ghpvc/?username=albertocmr&style=flat-square" alt="Profile Views" />
   </a>
-  <span style="width: 8px;"> </span>
-  <img align="center" src=":![](https://komarev.com/ghpvc/?username=albertocmr&style=flat-square)" />
+  
 </p>
 
 <h3 align="left"> Sobre mi:</h3>
