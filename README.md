@@ -12,7 +12,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de albertocmr" height="23px" width="28px" />
   </a>
   <span style="width: 8px;"> </span>
-  <a href= :![](https://komarev.com/ghpvc/?username=albertocmr&style=flat-square)>
+  <a :![](https://komarev.com/ghpvc/?username=albertocmr&style=flat-square)>
   </a>
 </p>
 
