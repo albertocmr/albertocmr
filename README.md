@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Alberto Cámara  👋</h1>
-<h3 align="center">Computer Engineering Student at University of Granada (UGR)</h3>
+<h1 align="center">Hi, I'm Alberto Cámara.  👋</h1>
+<h3 align="center">Computer Engineering Student at University of Granada(UGR).</h3>
 
 
 <p align="center">
