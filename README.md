@@ -4,8 +4,8 @@
 
 <p align="center">
   <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/albertocmr_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de albertocmr_" height="23px" width="23px" />
+  <a href="https://www.linkedin.com/in/alberto-c%C3%A1mara-a799a3267/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Perfil de Linkedin de Alberto Camara" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://twitter.com/AlbertoCamara_" target="blank">
