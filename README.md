@@ -5,7 +5,7 @@
 <p align="center">
   <span style="width: 8px;"> </span>
   <a href="https://instagram.com/albertocmr_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de albertocmr_" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://twitter.com/AlbertoCamara_" target="blank">
@@ -14,9 +14,87 @@
   
 </p>
 
+### Languages and Tools
+#### Backend
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="32" height="32"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="32" height="32" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="32" height="32" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="32" height="32" />
+      <br>Spring Boot
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+#### Frontend
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="32" height="32"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="32" height="32" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=astro" alt="icon" width="32" height="32" />
+      <br>Astro
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="32" height="32" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="32" height="32" />
+      <br>Tailwind CSS
+    </td>
+    
+  </tr>
+</table>
+
+#### Database
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="32" height="32"/>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+#### Tools
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="32" height="32" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="32" height="32" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="32" height="32" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="32" height="32" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
 <h3 align="left"> Stats on Github: </h3>
 
