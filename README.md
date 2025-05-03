@@ -3,6 +3,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+### Connect with Me
+
 <p align="center">
   <span style="width: 8px;"> </span>
   <a href="https://www.linkedin.com/in/alberto-c%C3%A1mara-a799a3267/" target="blank">
