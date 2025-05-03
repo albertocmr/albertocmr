@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/alberto-c%C3%A1mara-a799a3267/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Perfil de Linkedin de Alberto Camara" height="23px" width="23px" />
   </a>
-  <span style="width: 8px;"> </span>
-  <a href="https://twitter.com/AlbertoCamara_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de albertocmr" height="23px" width="28px" />
-  </a>
   
 </p>
 
@@ -102,7 +98,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Github Stats
-<p align="center>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertocmr&show_icons=true&theme=radical" alt="Github Streak" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertocmr&show_icons=true&theme=radical" />
+ </p>
 
